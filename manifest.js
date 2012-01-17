@@ -34,7 +34,7 @@
         {
             "device": "crespo4g",
             "product": "Crossbones",
-            "name": "0.1.3",
+            "name": "Crossbones 0.1.3",
             "summary": "Crossbones ROM - ICS - 0.1.3\nReleased: 01/08/2012",
             "modversion": "Crossbones-0.1.3",
             "url": "http://goo-inside.me/roms/crossbones/crespo4g/Crossbones-crespo4g-IML74K-0.1.3.zip",
