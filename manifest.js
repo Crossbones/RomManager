@@ -10,6 +10,10 @@
             "summary": "Crossbones ROM - ICS - 0.1.3\nReleased: 01/08/2012",
             "modversion": "Crossbones-0.1.3",
             "url": "http://goo-inside.me/roms/crossbones/crespo/Crossbones-crespo-IML74K-0.1.3.zip",
+            "screenshots": [
+                "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
+            ],
             "addons": [
                 {
                     "name": "Google Apps",
@@ -38,6 +42,10 @@
             "summary": "Crossbones ROM - ICS - 0.1.3\nReleased: 01/08/2012",
             "modversion": "Crossbones-0.1.3",
             "url": "http://goo-inside.me/roms/crossbones/crespo4g/Crossbones-crespo4g-IML74K-0.1.3.zip",
+            "screenshots": [
+                "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
+            ],
             "addons": [
                 {
                     "name": "Google Apps",
@@ -94,6 +102,10 @@
             "summary": "Crossbones ROM - ICS - 0.1.3\nReleased: 01/08/2012",
             "modversion": "Crossbones-0.1.3",
             "url": "http://goo-inside.me/roms/crossbones/crespo/Crossbones-toro-IML74K-0.1.3.zip",
+            "screenshots": [
+                "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
+            ],
             "addons": [
                 {
                     "name": "Google Apps",
