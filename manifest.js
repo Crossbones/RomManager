@@ -25,7 +25,6 @@
             ]
         },
         {
-
             "device": "crespo",
             "product": "Crossbones",
             "name": "Crossbones 0.1.3",
@@ -57,6 +56,7 @@
                 }
             ]
         },
+
         {
             "device": "crespo4g",
             "product": "Crossbones",
@@ -139,6 +139,7 @@
                 }
             ]
         },
+
         {
             "device": "toro",
             "product": "Crossbones",
@@ -148,8 +149,8 @@
             "url": "http://goo-inside.me/roms/crossbones/toro/Crossbones-0.2.0-toro-IML74K.zip",
             "screenshots": [
                 "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
-                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png"
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png",
                 "http://goo-inside.me/roms/crossbones/screenshots/common/004.png"
             ],
             "addons": [
