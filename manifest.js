@@ -12,9 +12,9 @@
             "url": "http://goo-inside.me/roms/crossbones/crespo/Crossbones-0.2.0-crespo-IML74K.zip",
             "screenshots": [
                 "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
-                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/common/004.png"
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/004.png",
                 "http://goo-inside.me/roms/crossbones/screenshots/crespo4g/001.png"
             ],
             "addons": [
@@ -66,10 +66,10 @@
             "url": "http://goo-inside.me/roms/crossbones/crespo4g/Crossbones-0.2.0-crespo4g-IML74K.zip",
             "screenshots": [
                 "http://goo-inside.me/roms/crossbones/screenshots/common/001.png",
-                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/common/004.png"
-                "http://goo-inside.me/roms/crossbones/screenshots/crespo4g/001.png"
+                "http://goo-inside.me/roms/crossbones/screenshots/common/002.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/003.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/common/004.png",
+                "http://goo-inside.me/roms/crossbones/screenshots/crespo4g/001.png",
                 "http://goo-inside.me/roms/crossbones/screenshots/crespo4g/002.png"
             ],
             "addons": [
