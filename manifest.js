@@ -1,6 +1,6 @@
 {
     "version": "1",
-    "homepage": "http://goo-inside.me/roms/crossbones",
+    "homepage": "http://xbones.org",
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EX9W3A7743TZS",
     "roms": [
         {
