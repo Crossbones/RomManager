@@ -6,6 +6,27 @@
         {
             "device": "crespo",
             "product": "Crossbones",
+            "name": "Crossbones 0.2.5",
+            "summary": "Crossbones ROM - ICS - 0.2.5\nReleased: 03/03/2012",
+            "modversion": "Crossbones-0.2.5-crespo-IML74K",
+            "url": "http://xbones.org/RomManager/crespo/Crossbones-0.2.5-crespo-IML74K.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120224-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "crespo",
+            "product": "Crossbones",
             "name": "Crossbones 0.2.0",
             "summary": "Crossbones ROM - ICS - 0.2.0\nReleased: 01/23/2012",
             "modversion": "Crossbones-0.2.0-crespo-IML74K",
@@ -57,6 +78,27 @@
             ]
         },
 
+        {
+            "device": "crespo4g",
+            "product": "Crossbones",
+            "name": "Crossbones 0.2.5",
+            "summary": "Crossbones ROM - ICS - 0.2.5\nReleased: 03/03/2012",
+            "modversion": "Crossbones-0.2.5-crespo4g-IML74K",
+            "url": "http://xbones.org/RomManager/crespo4g/Crossbones-0.2.5-crespo4g-IML74K.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120224-signed.zip"
+                }
+            ]
+        },
         {
             "device": "crespo4g",
             "product": "Crossbones",
