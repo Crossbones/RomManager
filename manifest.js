@@ -20,7 +20,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120224-signed.zip"
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120304-signed.zip"
                 }
             ]
         },
@@ -95,7 +95,7 @@
             "addons": [
                 {
                     "name": "Google Apps",
-                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120224-signed.zip"
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120304-signed.zip"
                 }
             ]
         },
