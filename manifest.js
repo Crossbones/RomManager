@@ -110,7 +110,8 @@
                 "http://xbones.org/RomManager/screenshots/common/002.png",
                 "http://xbones.org/RomManager/screenshots/common/003.png",
                 "http://xbones.org/RomManager/screenshots/common/004.png",
-                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/002.png"
             ],
             "addons": [
                 {
@@ -131,7 +132,8 @@
                 "http://xbones.org/RomManager/screenshots/common/002.png",
                 "http://xbones.org/RomManager/screenshots/common/003.png",
                 "http://xbones.org/RomManager/screenshots/common/004.png",
-                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/002.png"
             ],
             "addons": [
                 {
@@ -222,7 +224,26 @@
                 }
             ]
         },
-
+        {
+            "device": "toro",
+            "product": "Crossbones",
+            "name": "Crossbones 0.3.0",
+            "summary": "Crossbones ROM - ICS - 0.3.0\nReleased: 04/08/2012",
+            "modversion": "Crossbones-0.3.0-toro-IMM76D",
+            "url": "http://xbones.org/RomManager/crespo4g/Crossbones-0.3.0-toro-IMM76D.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120317-signed.zip"
+                }
+            ]
+        },
         {
             "device": "toro",
             "product": "Crossbones",
