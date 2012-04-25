@@ -292,7 +292,7 @@
             "name": "Crossbones 0.3.0",
             "summary": "Crossbones ROM - ICS - 0.3.0\nReleased: 04/08/2012",
             "modversion": "Crossbones-0.3.0-toro-IMM76D",
-            "url": "http://xbones.org/RomManager/crespo4g/Crossbones-0.3.0-toro-IMM76D.zip",
+            "url": "http://xbones.org/RomManager/toro/Crossbones-0.3.0-toro-IMM76D.zip",
             "screenshots": [
                 "http://xbones.org/RomManager/screenshots/common/001.png",
                 "http://xbones.org/RomManager/screenshots/common/002.png",
