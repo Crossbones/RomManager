@@ -332,7 +332,7 @@
             "name": "0.1.3",
             "summary": "Crossbones ROM - ICS - 0.1.3\nReleased: 01/08/2012",
             "modversion": "Crossbones-0.1.3",
-            "url": "http://xbones.org/RomManager/crespo/Crossbones-toro-IML74K-0.1.3.zip",
+            "url": "http://xbones.org/RomManager/toro/Crossbones-toro-IML74K-0.1.3.zip",
             "screenshots": [
                 "http://xbones.org/RomManager/screenshots/common/001.png",
                 "http://xbones.org/RomManager/screenshots/common/002.png"
