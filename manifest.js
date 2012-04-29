@@ -343,6 +343,26 @@
                     "url": "http://xbones.org/RomManager/gapps/gapps-xb-122411-signed.zip"
                 }
             ]
+        },
+        {
+            "device": "toroplus",
+            "product": "Crossbones",
+            "name": "Crossbones 0.3.2",
+            "summary": "Crossbones ROM - ICS - 0.3.2\nReleased: 04/29/2012",
+            "modversion": "Crossbones-0.3.2-toroplus-IMM76I",
+            "url": "http://xbones.org/RomManager/toroplus/Crossbones-0.3.2-toroplus-IMM76I.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
+                }
+            ]
         }
     ]
 }
