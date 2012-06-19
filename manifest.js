@@ -122,6 +122,28 @@
         {
             "device": "crespo4g",
             "product": "Crossbones",
+            "name": "Crossbones 0.4.1",
+            "summary": "Crossbones ROM - ICS - 0.4.1\nReleased: 06/19/2012",
+            "modversion": "Crossbones-0.4.1-crespo4g-IMM76L",
+            "url": "http://xbones.org/RomManager/crespo4g/Crossbones-0.4.1-crespo4g-IMM76L.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/common/quicksettings_screenshot.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "crespo4g",
+            "product": "Crossbones",
             "name": "Crossbones 0.3.1",
             "summary": "Crossbones ROM - ICS - 0.3.1\nReleased: 04/20/2012",
             "modversion": "Crossbones-0.3.1-crespo4g-IMM76D",
@@ -269,6 +291,27 @@
         {
             "device": "toro",
             "product": "Crossbones",
+            "name": "Crossbones 0.4.1",
+            "summary": "Crossbones ROM - ICS - 0.4.1\nReleased: 06/19/2012",
+            "modversion": "Crossbones-0.4.1-toro-IMM76L",
+            "url": "http://xbones.org/RomManager/toro/Crossbones-0.4.1-toro-IMM76L.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/common/quicksettings_screenshot.png",
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "toro",
+            "product": "Crossbones",
             "name": "Crossbones 0.3.1",
             "summary": "Crossbones ROM - ICS - 0.3.1\nReleased: 04/20/2012",
             "modversion": "Crossbones-0.3.1-toro-IMM76D",
@@ -341,6 +384,27 @@
                 {
                     "name": "Google Apps",
                     "url": "http://xbones.org/RomManager/gapps/gapps-xb-122411-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "toroplus",
+            "product": "Crossbones",
+            "name": "Crossbones 0.4.1",
+            "summary": "Crossbones ROM - ICS - 0.4.1\nReleased: 06/19/2012",
+            "modversion": "Crossbones-0.4.1-toroplus-IMM76L",
+            "url": "http://xbones.org/RomManager/toroplus/Crossbones-0.4.1-toroplus-IMM76L.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/common/quicksettings_screenshot.png",
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
                 }
             ]
         },
