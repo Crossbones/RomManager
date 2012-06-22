@@ -6,6 +6,28 @@
         {
             "device": "crespo",
             "product": "Crossbones",
+            "name": "Crossbones 0.4.1",
+            "summary": "Crossbones ROM - ICS - 0.4.1\nReleased: 06/20/2012",
+            "modversion": "Crossbones-0.4.1-crespo-IMM76L",
+            "url": "http://xbones.org/RomManager/crespo/Crossbones-0.4.1-crespo-IMM76L.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/common/quicksettings_screenshot.png",
+                "http://xbones.org/RomManager/screenshots/crespo4g/001.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "crespo",
+            "product": "Crossbones",
             "name": "Crossbones 0.3.1",
             "summary": "Crossbones ROM - ICS - 0.3.1\nReleased: 04/20/2012",
             "modversion": "Crossbones-0.3.1-crespo-IMM76D",
@@ -420,6 +442,28 @@
                 "http://xbones.org/RomManager/screenshots/common/002.png",
                 "http://xbones.org/RomManager/screenshots/common/003.png",
                 "http://xbones.org/RomManager/screenshots/common/004.png"
+            ],
+            "addons": [
+                {
+                    "name": "Google Apps",
+                    "url": "http://xbones.org/RomManager/gapps/gapps-ics-20120429-signed.zip"
+                }
+            ]
+        },
+        {
+            "device": "maguro",
+            "product": "Crossbones",
+            "name": "Crossbones 0.4.1",
+            "summary": "Crossbones ROM - ICS - 0.4.1\nReleased: 06/21/2012",
+            "modversion": "Crossbones-0.4.1-maguro-IMM76L",
+            "url": "http://xbones.org/RomManager/maguro/Crossbones-0.4.1-maguro-IMM76L.zip",
+            "screenshots": [
+                "http://xbones.org/RomManager/screenshots/common/001.png",
+                "http://xbones.org/RomManager/screenshots/common/002.png",
+                "http://xbones.org/RomManager/screenshots/common/003.png",
+                "http://xbones.org/RomManager/screenshots/common/004.png",
+                "http://xbones.org/RomManager/screenshots/common/quicksettings_screenshot.png",
+                "http://xbones.org/RomManager/screenshots/maguro/001.png"
             ],
             "addons": [
                 {
